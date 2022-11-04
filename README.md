@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xNicoLC or Ezequiel
+- 👀 I’m interested in : games
+- 🌱 I’m currently learning : html, css, java script
+- 💞️ I’m looking to collaborate on : nothing yet, I'm studying
+- 📫 How to reach me : xnicolc@gmail.com
